@@ -1,0 +1,15 @@
+build/
+managed_components/
+*.bin
+*.elf
+*.map
+sdkconfig.old
+*.o
+*.d
+dependencies.lock
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
